@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "image": "assets/images/taniar-aulia-rahmadini.jpg",
+      "name": "Taniar Aulia Rahmadini",
+      "job": "Web Developer",
+      "role" : "Job Seeker",
+      "description": "Berawal dari postingan loker instagram, lalu coba download aplikasi Kukerja.\nProses pendaftaran sangat cepat dan mudah. Berselang beberapa hari, saya langsung mendapat panggilan untuk interview dan langsung diterima bekerja. Terima kasih Kukerja berkat Kukerja, saya sebagai Fresh Graduate bisa langsung bekerja dan dapat penghasilan sendiri dengan mudah."
+    },
+    {
+      "image": "assets/images/paulinus-ari.jpg",
+      "name": "Paulinus Ari",
+      "job": "Flutter Developer",
+      "role" : "Job Seeker",
+      "description": "Proses pendaftaran sangat mudah. Dari melamar kerja hingga di terima bekerja prosesnya sangat cepat, tidak sampai satu hari saya sudah mendapat panggilan interview. Dibanding dulu, melamar ke lokasi, dan berkas fisik, makan waktu dan biaya. Di Kukerja saya bisa mudah mencari berbagai lowongan kerja yang tersedia. Cepat dan mudah"
+    },
+    {
+      "image": "assets/images/sinta-saputri.png",
+      "name": "Sinta Saputri",
+      "job": "Backend Developer",
+      "role" : "Job Seeker",
+      "description": "Saya mendapat rekomendasi aplikasi Kukerja dari teman saya. Setelah di coba, memang sangat mudah dan membantu, hanya dalam 1 minggu saya diterima bekerja. Sebelumnya saya masih menggunakan cara lama, sangat menghabiskan waktu, tenaga dan biaya, mulai dari fotokopi berkas sampai dengan mendatangi setiap perusahaan."
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+enum AuthenticationType { signIn, registration }

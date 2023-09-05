@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "532468117983",
+    "project_id": "landing-page-3dcac",
+    "storage_bucket": "landing-page-3dcac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532468117983:android:80e0473963eca3dbc8946a",
+        "android_client_info": {
+          "package_name": "com.example.kukerja_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532468117983-tic0pn3io3gv3cgkgeumrdfk7glk1pni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSNBc5TsVa4aA6c0OJdn4o3kxT-tlZyTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532468117983-tic0pn3io3gv3cgkgeumrdfk7glk1pni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "532468117983-avg409a1prnu0f5rau00n9ne12ekkqoi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cloningWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

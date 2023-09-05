@@ -1,0 +1,424 @@
+{
+  "sections": [
+    {
+      "title": "Kelas Best Seller #1",
+      "category": "Kategori: Web, Data & Digital Marketing",
+      "description": "Materi Disusun Oleh Tutor Dengan Pengalaman Lebih Dari 10 Tahun Di Berbagai Industri",
+      "courses": [
+        {
+          "fileLocation": "/images/laptop.png",
+          "title": "1. Kelas Website Tanpa Coding",
+          "description": "mampu membuat website company profile dan landing page untuk bisnis dan siap menjadi freelancer",
+          "level": "All Level",
+          "prePrice": "1.250.000",
+          "finalPrice": "198.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/keranjang.png",
+          "title": "2. Praktek Langsung Dan Bangun Portofolio",
+          "description": "Gak cuma teori, kelas di habiskerja juga mengajak kamu untuk praktek langsung",
+          "level": "Advanced",
+          "prePrice": "498.000",
+          "finalPrice": "198.000",
+          "benefits": [
+            {
+              "fileLocation": "Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/stock.png",
+          "title": "3. Manfaatkan Skill Untuk Berbisnis",
+          "description": "Setelah selesai belajar, kamu akan diajarkan cara memaksimalkan skill untuk kepentingan bisnismu",
+          "level": "Advanced",
+          "prePrice": "498.000",
+          "finalPrice": "198.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/facebook.png",
+          "title": "4. DIGITAL MARKETING: FB & INSTAGRAM ADS",
+          "description": "mampu meningkatkan penjualan melalui iklan di facebook dan instagram",
+          "level": "Advanced",
+          "prePrice": "498.000",
+          "finalPrice": "249.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/ads.png",
+          "title": "5. DIGITAL MARKETING: GOOGLE ADS",
+          "description": "mampu memahami dan mempraktekkan teknik beriklan di Google Ads 2021",
+          "level": "Advanced",
+          "prePrice": "498.000",
+          "finalPrice": "247.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/ngetik.png",
+          "title": "6. KELAS COPYWRITING",
+          "description": "belajar copywriting untuk meningkatkan penjualan melalui berbagai media.",
+          "level": "Advanced",
+          "prePrice": "498.000",
+          "finalPrice": "198.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kelas Best Seller #2",
+      "category": "Kategori: Desain & Animasi",
+      "description": "Materi Disusun Oleh Tutor Dengan Pengalaman Lebih Dari 10 Tahun Di Berbagai Industri",
+      "courses": [
+        {
+          "fileLocation": "/images/adobe.png",
+          "title": "KELAS DESAIN GRAFIS DENGAN PHOTOSHOP DAN CORELDRAW",
+          "description": "mampu membuat desain grafis menggunakan CorelDRAW dan Photoshop.",
+          "level": "All Level",
+          "prePrice": "491.000",
+          "finalPrice": "239.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/yellowman.png",
+          "title": "KELAS ANIMASI MOTION GRAPHIC DENGAN ADOBE AFTER EFFECTS",
+          "description": "Mampu membuat animasi motion graphic 2D menggunakan software After Effects.",
+          "level": "All Level - New Class",
+          "prePrice": "296.000",
+          "finalPrice": "193.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/comingsoon.png",
+          "title": "KELAS UI/UX WEBSITE DAN APLIKASI MOBILE",
+          "description": "memahami dan mampu membuat desain UI/UX untuk website dan mobile Apps.",
+          "level": "All Level",
+          "prePrice": "",
+          "finalPrice": "",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kelas Best Seller #3",
+      "category": "Kategori: Investasi Dan Keuangan",
+      "description": "Materi Disusun Oleh Tutor Dengan Pengalaman Lebih Dari 10 Tahun Di Berbagai Industri",
+      "courses": [
+        {
+          "fileLocation": "/images/saham.png",
+          "title": "KELAS INVESTASI SAHAM",
+          "description": "mampu berinvestasi dan menghasilkan profit konsisten setiap bulannya.",
+          "level": "All Level",
+          "prePrice": "1.250.000",
+          "finalPrice": "296.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/crypto.png",
+          "title": "KELAS INVESTASI CRYPTOCURRENCY",
+          "description": "memahami apa itu cryptocurrency dan bagaimana cara berinvestasi yang tepat dan aman",
+          "level": "All Level",
+          "prePrice": "1.250.000",
+          "finalPrice": "149.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/americanstock.png",
+          "title": "KELAS INVESTASI SAHAM AMERIKA (US STOCKS)",
+          "description": "mampu memahami dan mempraktekkan teknik beriklan di Google Ads 2021",
+          "level": "All Level",
+          "prePrice": "956.000",
+          "finalPrice": "239.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/bandarmologi.png",
+          "title": "KELAS BANDARMOLOGI",
+          "description": "memahami rahasia analisis saham para bandar dalam mengontrol harga saham di bursa Indonesia",
+          "level": "All Level",
+          "prePrice": "1.500.000",
+          "finalPrice": "299.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/comingsoon.png",
+          "title": "KELAS PERSONAL FINANCES",
+          "description": "membuat planning personal finances untuk keuangan yang lebih baik",
+          "level": "All Level",
+          "prePrice": "",
+          "finalPrice": "",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/comingsoon.png",
+          "title": "KELAS ACCOUNTING FOR BUSINESS",
+          "description": "memahami prinsip akuntansi untuk pembukuan usaha UMKM",
+          "level": "All Level",
+          "prePrice": "",
+          "finalPrice": "",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kelas Best Seller #4",
+      "category": "Kategori: Self Development & Career",
+      "description": "Materi Disusun Oleh Tutor Dengan Pengalaman Lebih Dari 10 Tahun Di Berbagai Industri",
+      "courses": [
+        {
+          "fileLocation": "/images/agreement.png",
+          "title": "ENGLISH FOR CAREER PREPARATION",
+          "description": "mampu menyusun CV, cover letter dan melakukan interview berbahasa inggris.",
+          "level": "All Level",
+          "prePrice": "398.000",
+          "finalPrice": "199.000",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/comingsoon.png",
+          "title": "KELAS MENENTUKAN PILIHAN KARIR",
+          "description": "belajar menganalisis kelebihan diri untuk menentukan pilihan karir yang paling sesuai.",
+          "level": "All Level",
+          "prePrice": "",
+          "finalPrice": "",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        },
+        {
+          "fileLocation": "/images/comingsoon.png",
+          "title": "KELAS PERSIAPAN CV DAN COVER LETTER",
+          "description": "memahami strategi pembuatan CV dan cover letter untuk mendapatkan pekerjaan impian.",
+          "level": "All Level",
+          "prePrice": "",
+          "finalPrice": "",
+          "benefits": [
+            {
+              "fileLocation": "const Icon(Icons.local_attraction_rounded)",
+              "title": "Sertifikat"
+            },
+            {
+              "fileLocation": "const Icon(Icons.chat_outlined)",
+              "title": "Konsultasi"
+            },
+            {
+              "fileLocation": "const Icon(Icons.code)",
+              "title": "Studi Kasus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
